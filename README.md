@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Contact Management
 - **Add / Edit / Delete** contacts with a clean modal form
@@ -59,7 +59,7 @@ Four live stat cards update whenever data changes:
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.11 or later
@@ -85,7 +85,7 @@ python main.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 contactbook/
@@ -106,7 +106,7 @@ contactbook/
 
 ---
 
-## 🏗 Architecture
+##  Architecture
 
 | Layer | Module | Responsibility |
 |-------|--------|----------------|
@@ -118,7 +118,7 @@ contactbook/
 
 ---
 
-## ⌨ Keyboard Shortcuts
+##  Keyboard Shortcuts
 
 | Key | Action |
 |-----|--------|
@@ -128,7 +128,7 @@ contactbook/
 
 ---
 
-## 📋 CSV Format
+##  CSV Format
 
 Exported / imported files use these column headers (order matters for import):
 
